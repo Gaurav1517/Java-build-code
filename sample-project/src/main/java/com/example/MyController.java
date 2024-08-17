@@ -10,6 +10,6 @@ public class MyController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, World!";
+        return "Hello, Welcome to my Spring Boot Application!";
     }
 }
